@@ -1,4 +1,5 @@
 # imazilla
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -18,7 +19,7 @@
       color: white;
     }
 
-    /* Top Navbar */
+   Top Navbar 
     .container {
       display: flex;
       align-items: center;
@@ -28,7 +29,9 @@
       box-shadow: 0 2px 5px rgba(255, 255, 255, 0.1);
       position: sticky;
       top: 0;
-      z-index: 1000;
+      z-index: 2000;
+      /* I Will Change The Value Of Z -index From 1000 To 2000;*/
+
     }
 
     .d1 {
